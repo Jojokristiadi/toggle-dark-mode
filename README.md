@@ -1,2 +1,2 @@
-# toggle-drak-mode
+# toggle-drag-mode
 create an dark mode toggle
